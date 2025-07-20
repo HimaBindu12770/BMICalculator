@@ -15,4 +15,4 @@ Calculates Body Mass Index based on user input weight and height.
 
 ## 💡 How to Run:
 ```bash
-python bmi_gui.py
+python bmi.py
